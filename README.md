@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @graphicsdoth
+- 👋 Hi, I’m Anisha Joshi @graphicsdoth
 - 👀 I’m interested in learning better ways to tune the ML models for higher accuracy
 - 🌱 I’m currently learning ML implementation through Python
 - 💞️ I’m looking to collaborate on interesting projects
